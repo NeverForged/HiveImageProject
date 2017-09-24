@@ -1,20 +1,20 @@
 # The Hive Satellite Imagery Project
-### - Machine Learning and Refugee Crisis -
+**- Machine Learning and Refugee Crisis -**
 
 ### COLLABORATORS
 * **Project Lead:** Franck Mujyanama, franck@unrefugees.org
 * **Data Expert:** Friederike Schuur, friederike@fastforwardlabs.com
 
 ### Neural Net Experts:
-* **Kelin, Christik,** Christik.dev@gmail.com
-* **Jin, Qu,** jingu@uw.edu
-* **Ryan, Skorupski,** ryan.skorupski@alumni.stanford.edu
-* **Darin, LaSota,** darin.lasota@gmail.com
-* **Ravin R, Pierre,** ravin.r.pierre@gmail.com
+* **Kelin Christi** Christik.dev@gmail.com
+* **Jin Qu** jingu@uw.edu
+* **Ryan Skorupski** ryan.skorupski@alumni.stanford.edu
+* **Darin LaSota** darin.lasota@gmail.com
+* **Ravin R Pierre** ravin.r.pierre@gmail.com
 
 ### Hive Team:
-* **Rita Ko,** Rita@unrefugees.org
-* **Marena Lai,** marena@unrefugees.org
+* **Rita K** Rita@unrefugees.org
+* **Marena Lai** marena@unrefugees.org
 
 ## GOALS
 The goal of this project is to develop a product that uses satellite image data to:
