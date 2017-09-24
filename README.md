@@ -31,7 +31,7 @@ Building off of the preliminary work from the Seattle DataKind’s DataDive, a d
 ## PROTOTYPE DESCRIPTION
 Satellite technology and machine learning: High resolution satellite image data, when harnessed correctly, can provide highly useful information in the humanitarian response to global crises. Through the process of machine learning, computers can be trained to analyze and recognize satellite images that show us certain patterns and behaviors. This tool, in particular, can teach a computer the dimensions of a tent in a refugee camp and further locate other tents in other refugee camps around the world, cataloging all of the refugee tents in camps worldwide.
 
-Applications: With an increase in the number of displaced people in the world which has led to the construction of new refugee camps, a prototype that uses high resolution satellite imagery data will be built to better visualize the scale of this growth. Potential applications include:
+**Applications:** With an increase in the number of displaced people in the world which has led to the construction of new refugee camps, a prototype that uses high resolution satellite imagery data will be built to better visualize the scale of this growth. Potential applications include:
 
 **Tents:** This tool will monitor the expansion of the refugee population through changes in the camps sizes, labeling and counting tents in refugee camps around the world. This information will be used to bring an understanding to current and prospective donors around how the refugee crisis has grown.
 
